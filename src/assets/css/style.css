@@ -1,3 +1,4 @@
+/**** Common ****/
 html,
 body {
     margin: 0;
@@ -14,9 +15,7 @@ button {
     cursor: pointer;
 }
 
-
-
-
+/**** Header ****/
 header {
     display: flex;
     width: 100%;

@@ -81,8 +81,7 @@ const Home = () => {
                                         <img
                                             onClick={() => clickMovie(movie.id)}
                                             class="image"
-                                            // src={'https://res.cloudinary.com/dwzjr9dg5/' + movie.image_mobile}
-                                            src={movie.image}
+                                            src={'https://res.cloudinary.com/dwzjr9dg5/' + movie.image_mobile}
                                             alt=""
                                         />
                                     </div>
@@ -128,8 +127,7 @@ const Home = () => {
                                         <img
                                             onClick={() => clickMovie(movie.id)}
                                             class="image"
-                                            // src={'https://res.cloudinary.com/dwzjr9dg5/' + movie.image_mobile}
-                                            src={movie.image}
+                                            src={'https://res.cloudinary.com/dwzjr9dg5/' + movie.image_mobile}
                                             alt=""
                                         />
                                     </div>
