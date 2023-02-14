@@ -1,6 +1,5 @@
 # cinema_paradiso_frontend
 
-# Cinema-Paradiso
 
 
 In this web application you will find many informative movie reviews,
@@ -18,8 +17,7 @@ Check out [FRONTEND LIVE DEMO](https://cinemaparadisofrontend.coreytkaren.repl.c
 * Backend : Django
 
 ## How to Install
-1. Git Clone
-git clone  
+1. Git Clone :- https://github.com/coreytkaren/cinema_paradiso_frontend.git
 
 3. Frontend setting
 cd frontend
